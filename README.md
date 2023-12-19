@@ -1,5 +1,5 @@
 
-# README for TikTok Automation Project
+# TikTok Automation Project
 
 ## Overview
 This project is a Python-based TikTok automation tool, leveraging the Selenium library for web automation. It allows users to upload videos to TikTok with custom captions.
