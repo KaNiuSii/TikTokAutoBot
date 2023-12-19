@@ -54,6 +54,7 @@ This project is a Python-based TikTok automation tool, leveraging the Selenium l
 
 4. **Run the Bot**:
    Click the 'Run' button to start the upload process. The bot will open a Chrome window, log into TikTok, and perform the upload.
+<br>![image](https://github.com/KaNiuSii/TikTokAutoBot/assets/123270897/7a5c34e8-b06a-421b-b1c0-6be5ad805a51)<br>
 
 ## Important Notes
 - Ensure you have Chrome browser installed.
